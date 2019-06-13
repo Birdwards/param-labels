@@ -1745,6 +1745,7 @@
 0x0dce69ea50,aurora_vision
 0x06bdafd8c8,author
 0x0466ba25fa,auto
+0x0accee149f,auto_catch
 0x0b3baefa97,auto_damage
 0x11b8adda11,auto_damage_frame
 0x14646d8f59,auto_floor_threshold
@@ -5064,6 +5065,7 @@
 0x104499a730,common_parameter
 0x111310cd59,common_power_down
 0x0f32d28d33,common_power_up
+0x0a992170b2,common_spt
 0x1f7090b60e,common_status_escape_search_per
 0x2496d06a94,common_status_escape_search_size_max
 0x24aadd55cd,common_status_escape_search_size_min
@@ -19876,13 +19878,16 @@
 0x193401b289,personal_fire_resist_down
 0x1986596fd1,personal_item_attack_down
 0x1e32254287,personal_item_shoot_offense_up
+0x1e7c1db36a,personal_item_swing_offense_up
 0x1e690a2435,personal_item_throw_offense_up
 0x12a2e37153,personal_jump_down
+0x16bf599137,personal_jump_up_small
 0x17903d7f2f,personal_leg_offense_up
 0x151de916c0,personal_light_slayer
 0x195b1a155f,personal_magic_offense_up
 0x1721a97877,personal_psi_offense_up
 0x131b9fa574,personal_speed_down
+0x17390ba68e,personal_speed_up_small
 0x19ef287817,personal_sword_offense_up
 0x195bde692f,personal_throw_offense_up
 0x1bd80cbd5d,personal_thunder_offense_up
@@ -19891,6 +19896,7 @@
 0x195e5a9032,personal_water_offense_up
 0x1a066b2a2c,personal_water_resist_down
 0x14d83a8ed2,personal_weight_down
+0x18b40e92f0,personal_weight_up_small
 0x0be1cf90ae,personality
 0x03e4529b85,pet
 0x0475819b77,peta
